@@ -281,3 +281,7 @@ pip install -r requirements.txt
 **Danish Ekbal Ahmad**  
 Learning data engineering | Kathmandu, Nepal  
 This is one of my portfolio projects built while learning how real data pipelines and caching systems work.
+
+## 📄 License
+
+This project is open source. The Medicare dataset is public domain, provided by the US Centers for Medicare & Medicaid Services (CMS).
